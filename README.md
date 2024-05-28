@@ -1,2 +1,2 @@
-# Personal-Automation-Projects
-PAPs
+# Personal Automation Projects
+Each automation consist of a trigger, action, and return. Triggers are pften system specific and immutable, returns are universal and stagnant, but actions are code and can be anything! I am interested in the entire design process. Being familiar with possible triggers is very useful when selecting which system to utilize for excecuting created actions. Creating [iOS Shortcuts](https://support.apple.com/guide/shortcuts/welcome/ios) is one of my favorite ways to make my life easier. 
